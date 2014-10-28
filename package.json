@@ -1,0 +1,22 @@
+{
+  "name": "gcal-add-and-remove-calendars",
+  "version": "0.1.0",
+  "description": "Chrome extension that turns the \"Add a coworker's calendar\" field in Google Calendar™ into a toggle for adding AND removing calendars.",
+  "main": "index.js",
+  "dependencies": {
+    "email-addresses": "~2.0.0",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "google",
+    "calendar"
+  ],
+  "author": "Seth Walker",
+  "license": "MIT"
+}
